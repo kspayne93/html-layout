@@ -1,0 +1,43 @@
+*{
+   box-sizing: border-box
+}
+
+
+.header {
+   height: 100px;
+   width: 100%;
+   background-color: lightgray;
+   padding: 10px 20px;
+}
+
+#blue-box {
+   height: 100%;
+   width: 80px;
+   background-color: #478cdb;
+   
+}
+
+.main {
+   width: 100%;
+   padding: 50px;
+}
+
+.stripe {
+   height: 100px;
+}
+
+.stripe.blue {
+   background-color: #2371ca;
+}
+
+.stripe.teal {
+   background-color: #1ee0a6;
+}
+
+.stripe.green {
+   background-color: #aeda5c;
+}
+
+.stripe.yellow {
+   background-color: #f8f802;
+}
